@@ -1,4 +1,4 @@
-# 📈 Personal Finance Investment Strategist
+# 📈 Vittaśāstra - AI Strategist Enhanced
 
 ### 🚀 Agentic Demo Showcase – Track 3 Entry  
 **Hugging Face Gradio Hackathon 2025**
